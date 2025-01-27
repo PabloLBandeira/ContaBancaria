@@ -1,0 +1,17 @@
+{
+    "name": "user/conta_bancaria",
+    "description": "Projeto \"Conta Bancária\" criado para o curso Programação em PHP da DIO\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[\u001b[3~\u001a:",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "User\\ContaBancaria\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "PabloLBandeira",
+            "email": "pablo.bandeira@ymail.com"
+        }
+    ],
+    "require": {}
+}
