@@ -1,15 +1,15 @@
 {
-    "name": "user/conta_bancaria",
-    "description": "Projeto \"Conta Bancária\" criado para o curso Programação em PHP da DIO\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[\u001b[3~\u001a:",
+    "name": "pablo/conta-bancaria",
+    "description": "Projeto Conta Bancaria DIO",
     "type": "project",
     "autoload": {
         "psr-4": {
-            "User\\ContaBancaria\\": "src/"
+            "Pablo\\ContaBancaria\\": "src/"
         }
     },
     "authors": [
         {
-            "name": "PabloLBandeira",
+            "name": "PabloBandeira",
             "email": "pablo.bandeira@ymail.com"
         }
     ],
